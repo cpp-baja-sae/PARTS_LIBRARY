@@ -598,6 +598,9 @@ Source: &lt;a href="https://www.mouser.com/datasheet/2/447/PYu_AT_51_RoHS_L_5-17
 </devices>
 </deviceset>
 <deviceset name="TNPW060334K0BEEA">
+<description>Thin Film Resistors - SMD 34Kohms .1% 25ppm
+&lt;p&gt;
+Source: &lt;a href="https://www.mouser.com/datasheet/2/427/tnpw_e3-1761965.pdf"&gt;Data Sheet&lt;/a&gt;</description>
 <gates>
 <gate name="G$1" symbol="RESISTOR" x="0" y="0"/>
 </gates>
@@ -611,12 +614,23 @@ Source: &lt;a href="https://www.mouser.com/datasheet/2/447/PYu_AT_51_RoHS_L_5-17
 <package3dinstance package3d_urn="urn:adsk.eagle:package:31668595/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="DESCRIPTION" value="Thin Film Resistors - SMD 34Kohms .1% 25ppm" constant="no"/>
+<attribute name="HEIGHT" value="0.45 mm" constant="no"/>
+<attribute name="MANUFACTURER_NAME" value="Vishay/Dale" constant="no"/>
+<attribute name="MANUFACTURER_PART_NUMBER" value="
+TNPW060334K0BEEA" constant="no"/>
+<attribute name="MOUSER_PART_NUMBER" value="71-TNPW060334K0BEEA" constant="no"/>
+<attribute name="MOUSER_PRICE-STOCK" value="https://www.mouser.com/ProductDetail/Vishay-Dale/TNPW060334K0BEEA?qs=kHCK1FE53PlE3u8PggA5Ww%3D%3D" constant="no"/>
+</technology>
 </technologies>
 </device>
 </devices>
 </deviceset>
 <deviceset name="TNPW0603392RBEEA">
+<description>Thin Film Resistors - SMD 392ohms .1% 25ppm
+&lt;p&gt;
+Source: &lt;a href="https://www.mouser.com/datasheet/2/427/tnpw_e3-1761965.pdf"&gt;Data Sheet&lt;/a&gt;</description>
 <gates>
 <gate name="G$1" symbol="RESISTOR" x="0" y="0"/>
 </gates>
@@ -630,12 +644,22 @@ Source: &lt;a href="https://www.mouser.com/datasheet/2/447/PYu_AT_51_RoHS_L_5-17
 <package3dinstance package3d_urn="urn:adsk.eagle:package:31668595/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="DESCRIPTION" value="Thin Film Resistors - SMD 392ohms .1% 25ppm" constant="no"/>
+<attribute name="HEIGHT" value="0.45 mm" constant="no"/>
+<attribute name="MANUFACTURER_NAME" value="Vishay/Dale" constant="no"/>
+<attribute name="MANUFACTURER_PART_NUMBER" value="TNPW0603392RBEEA" constant="no"/>
+<attribute name="MOUSER_PART_NUMBER" value="71-TNPW0603392RBEEA" constant="no"/>
+<attribute name="MOUSER_PRICE-STOCK" value="https://www.mouser.com/ProductDetail/Vishay-Dale/TNPW0603392RBEEA?qs=kHCK1FE53PkNbYaq0EU6Lw%3D%3D" constant="no"/>
+</technology>
 </technologies>
 </device>
 </devices>
 </deviceset>
 <deviceset name="TNPW0603953RBEEA">
+<description>Thin Film Resistors - SMD 953ohms .1% 25ppm
+&lt;p&gt;
+Source: &lt;a href="https://www.mouser.com/datasheet/2/427/tnpw_e3-1761965.pdf"&gt;Data Sheet&lt;/a&gt;</description>
 <gates>
 <gate name="G$1" symbol="RESISTOR" x="0" y="0"/>
 </gates>
@@ -649,7 +673,14 @@ Source: &lt;a href="https://www.mouser.com/datasheet/2/447/PYu_AT_51_RoHS_L_5-17
 <package3dinstance package3d_urn="urn:adsk.eagle:package:31668595/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="DESCRIPTION" value="Thin Film Resistors - SMD 953ohms .1% 25ppm" constant="no"/>
+<attribute name="HEIGHT" value="0.45 mm" constant="no"/>
+<attribute name="MANUFACTURER_NAME" value="Vishay/Dale" constant="no"/>
+<attribute name="MANUFACTURER_PART_NUMBER" value="TNPW0603953RBEEA" constant="no"/>
+<attribute name="MOUSER_PART_NUMBER" value="71-TNPW0603953RBEEA" constant="no"/>
+<attribute name="MOUSER_PRICE-STOCK" value="https://www.mouser.com/ProductDetail/Vishay-Dale/TNPW0603953RBEEA?qs=CqEPuS5aiX8a1bzjUmak3Q%3D%3D" constant="no"/>
+</technology>
 </technologies>
 </device>
 </devices>
@@ -742,6 +773,9 @@ Source: &lt;a href="https://www.mouser.com/datasheet/2/427/tnpw_e3-1761965.pdf"&
 </devices>
 </deviceset>
 <deviceset name="WSL0603R0180FEA">
+<description>Current Sense Resistors - SMD 1/10watt .018ohms 1%
+&lt;p&gt;
+Source: &lt;a href="https://www.mouser.com/datasheet/2/427/VISH_S_A0011931981_1-2572395.pdf"&gt;Data Sheet&lt;/a&gt;</description>
 <gates>
 <gate name="G$1" symbol="RESISTOR" x="0" y="0"/>
 </gates>
@@ -755,12 +789,23 @@ Source: &lt;a href="https://www.mouser.com/datasheet/2/427/tnpw_e3-1761965.pdf"&
 <package3dinstance package3d_urn="urn:adsk.eagle:package:31668640/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="DESCRIPTION" value="
+Current Sense Resistors - SMD 1/10watt .018ohms 1%" constant="no"/>
+<attribute name="HEIGHT" value="0.33 mm" constant="no"/>
+<attribute name="MANUFACTURER_NAME" value="Vishay/Dale" constant="no"/>
+<attribute name="MANUFACTURER_PART_NUMBER" value="WSL0603R0180FEA" constant="no"/>
+<attribute name="MOUSER_PART_NUMBER" value="71-WSL0603R0180FEA" constant="no"/>
+<attribute name="MOUSER_PRICE-STOCK" value="https://www.mouser.com/ProductDetail/Vishay-Dale/WSL0603R0180FEA?qs=WgxguIJepIVxM5lrrv8PKQ%3D%3D" constant="no"/>
+</technology>
 </technologies>
 </device>
 </devices>
 </deviceset>
 <deviceset name="TNPW060310R0BEEN">
+<description>Thin Film Resistors - SMD 10ohms .1% 25ppm
+&lt;p&gt;
+Source: &lt;a href="https://www.mouser.com/datasheet/2/427/tnpw_e3-1761965.pdf"&gt;Data Sheet&lt;/a&gt;</description>
 <gates>
 <gate name="G$1" symbol="RESISTOR" x="0" y="0"/>
 </gates>
@@ -774,7 +819,14 @@ Source: &lt;a href="https://www.mouser.com/datasheet/2/427/tnpw_e3-1761965.pdf"&
 <package3dinstance package3d_urn="urn:adsk.eagle:package:31668595/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="DESCRIPTION" value="Thin Film Resistors - SMD 10ohms .1% 25ppm" constant="no"/>
+<attribute name="HEIGHT" value="0.45 mm" constant="no"/>
+<attribute name="MANUFACTURER_NAME" value="Vishay/Dale" constant="no"/>
+<attribute name="MANUFACTURER_PART_NUMBER" value="TNPW060310R0BEEN" constant="no"/>
+<attribute name="MOUSER_PART_NUMBER" value="71-TNPW060310R0BEEN" constant="no"/>
+<attribute name="MOUSER_PRICE-STOCK" value="https://www.mouser.com/ProductDetail/Vishay-Dale/TNPW060310R0BEEN?qs=sGAEpiMZZMtlubZbdhIBINBUesVvBWI8Ir7KK%252BezhzA%3D" constant="no"/>
+</technology>
 </technologies>
 </device>
 </devices>
